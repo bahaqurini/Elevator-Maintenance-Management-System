@@ -75,7 +75,7 @@ A web-based control panel that allows company management to monitor and manage a
   📱 [Download APK](https://masaead.ps-on-line.com/files/elevators_demo.apk)
 
 - **Desktop App (Demo Version):**  
-  💻 [Download Windows Installer](https://masaead.ps-on-line.com/files/elevatorsdemo..msi)
+  💻 [Download Windows Installer](https://masaead.ps-on-line.com/files/elevatorsdemo.msi)
 
 > 🔒 This system is private and proprietary.  
 > All rights reserved to **Nofal Tec for Elevators**.  
