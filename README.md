@@ -115,5 +115,5 @@ A web-based control panel that allows company management to monitor and manage a
 For collaborations or similar project development:
 
 **Developer:** Bahaa Qurini  
-**LinkedIn:** [Bahaa Qurini](YOUR_LINKEDIN_URL)  
-**Email:** your@email.com
+**LinkedIn:** [Bahaa Qurini](https://www.linkedin.com/in/bahaaqurini/)  
+**Email:** bahaa.qurini@gmail.com
